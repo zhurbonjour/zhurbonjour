@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Алексей!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Изучаю python, увлекаюсь веб-разработкой</h3>
+<h3 align="center">Изучаю python, занимаюсь веб-разработкой</h3>
 
   <p align="center">
     На данный момент овладел:
